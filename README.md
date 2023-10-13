@@ -4,7 +4,7 @@ AutoReply is an application designed to provide an automatic reply service for i
 
 You can download the app from the Play Store by clicking the following link:
 
-<a href='https://play.google.com/store/apps/details?id=com.matrix.autoreply&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="60" /></a>
+<a href='https://play.google.com/store/apps/details?id=pro.kuzdowicz.autoreply&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="60" /></a>
 
 The app instantly replies to incoming messages, allowing you to stay connected without physically interacting with your phone. Whether you're away on vacation, sleeping, or simply busy, Auto-Reply-Android ensures that your contacts receive timely responses. You have the flexibility to customize your replies and adjust the frequency with which certain users receive specific messages.
 

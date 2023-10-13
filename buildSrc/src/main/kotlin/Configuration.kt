@@ -8,5 +8,5 @@ object Configuration {
     const val versionName = "$majorVersion.$minorVersion.$patchVersion"
     const val versionCode = 27
     const val snapshotVersionName = "$majorVersion.$minorVersion.${patchVersion + 1}-SNAPSHOT"
-    const val artifactGroup = "com.matrix.autoreply"
+    const val artifactGroup = "pro.kuzdowicz.autoreply"
 }
